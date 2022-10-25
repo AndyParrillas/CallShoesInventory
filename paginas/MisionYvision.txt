@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="css/plantillaSitioWeb.css"/>
+		<div class="header" style="background-image: url('img/fondo2.jpg')">
+				<div class="textosC">
+					<h1>Callshoes</h>
+					<p>Tu Mejor Zapateria</p>
+				</div>
+			</div> 
+				</div>
+            <div class="navBar">
+                <nav>
+				<a href="">Inicio</a>
+				<a href="">Mision Y vision</a>
+				<a href="">¿Quienes somos?</a>
+				<a href="">Niños</a>
+				</nav>
+            </div>
+    </head>
+	
+	
+
+    <body>
+        <div class="footer" style="background-image: url('img/fondo3.jpg')">       
+        </div>
+    </body>
+</html>

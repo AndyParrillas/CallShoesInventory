@@ -1,0 +1,106 @@
+*{
+	margin:0;
+	padding:0;
+}
+.container{
+    position:center;
+	text-align:center;
+	font-family:Arial;
+	font-size:x-large;
+	font-weight:50%;
+	
+}
+.header{
+  	border-radius: 10px;
+	min-height: 200px;
+	font-weight: bold;
+	padding: 20px;
+	position: relative;
+	overflow: hidden;
+	background-size: cover;
+	background-position: center center;	
+	
+}
+.textosC {
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
+	
+}
+.navBar{
+	text-align:center;
+	font-family:Arial;
+	font-size:x-large;
+    
+}
+.leftMenu{
+    background-color: #9966ff;
+    float: left;
+    width: 10%;
+    margin-bottom: -1000px; 
+    padding-bottom: 500px;
+}
+.rightMenu{
+    background-color: #00cccc;
+    float: left;
+    width:10%;  
+    margin-bottom: -1000px;
+    padding-bottom: 1000px;
+}
+.footer{
+   border-radius: 10px;
+	min-height: 200px;
+	font-weight: bold;
+	padding: 20px;
+	position: relative;
+	overflow: hidden;
+	background-size: cover;
+	background-position: center center;	
+	text-align:center;
+}
+.imgCabeza{
+    width: 100%;
+    height:100%;
+   	position: absolute;
+    bottom: 8px;
+}
+body{
+    background-image: url("fondo_callshoes.jpg");
+}
+.contenedor {
+	width:90%;
+	max-width: 1200px;
+	margin: auto;
+	padding: 40px 0;
+	display:flex;
+	gap:20xp;	
+}
+.contenedor-zapatos {
+   width:90%;
+  
+}
+
+.card {
+	border-radius: 18px;
+	min-height:150px;
+	font-weight: bold;
+	padding: 30px;
+	position: relative;
+	overflow: hidden;
+	background-size: cover;
+	background-position:center center;	
+	width:90%;
+}
+.card .textos {
+    bottom: 8px;
+    left: 16px;
+    font-size: 30px;
+    position:absolute;
+}
+.formulario{
+	text-align: center;
+	
+}
+.titulo{
+	text-align: center;
+}
